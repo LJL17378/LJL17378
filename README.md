@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a student in SDDU.
+- 🔭 I’m a student in SDU.
 
 ![](https://github-readme-stats.vercel.app/api?username=LJL17378&show_icons=true&theme=transparent)
 
