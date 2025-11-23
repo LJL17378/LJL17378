@@ -3,8 +3,7 @@
 - 🔭 I’m a student in SDU.
 
 ![](https://github-readme-stats.vercel.app/api?username=LJL17378&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/LJL17378/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJL17378&layout=compact&theme=tokyonight)
 
 ### My Skill Set
 
