@@ -1,5 +1,8 @@
 <h1 align="center">🌟 Hi, I'm <b>LJL</b> — Welcome to My Space! 🌟</h1>
-
+<p align="center">
+  <!-- 穿插图：温柔风，氛围感开场 -->
+  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/mobileqq_card_pic_1761492693027.jpg" width="550" />
+</p>
 <p align="center">
   <i>“Coding • Anime • Night Breeze • Small Happiness”</i><br/>
   <i>喜欢前端、喜欢故事、也喜欢深夜独处。</i>
@@ -8,10 +11,9 @@
 ---
 
 ## 🌸 About Me — 关于我
-
 <p align="center">
-  <!-- 穿插图：温柔风，氛围感开场 -->
-  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/mobileqq_card_pic_1761492693027.jpg" width="550" />
+  <!-- 横向图：作为视觉节奏的重点图 -->
+  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/ce26b4514a3b5a34594e196f55736cf2993f8a5b_raw.jpg" width="700" />
 </p>
 
 - 🎓 SDU 在读学生  
@@ -19,18 +21,6 @@
 - 🎯 想做出好用、漂亮、有灵魂的东西  
 - 🌙 代码、音乐、动漫是人生三件小确幸  
 - 🧃 想把生活过甜一点，也想让作品更有温度  
-
----
-
-<p align="center">
-  <!-- 横向图：作为视觉节奏的重点图 -->
-  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/ce26b4514a3b5a34594e196f55736cf2993f8a5b_raw.jpg" width="700" />
-</p>
-
-<p align="center">
-  <!-- 竖向图：作为轻盈的视觉收尾 -->
-  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/Image_1761495118748.png" height="420" />
-</p>
 
 ---
 
@@ -45,6 +35,10 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
+<p align="center">
+  <!-- 竖向图：作为轻盈的视觉收尾 -->
+  <img src="https://raw.githubusercontent.com/LJL17378/my-img/main/Image_1761495118748.png" height="420" />
+</p>
 ---
 
 ## 📊 GitHub Status — GitHub 数据
