@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm LJL.
 
 - 🔭 I’m a student in SDU.
 
